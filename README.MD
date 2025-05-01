@@ -35,7 +35,7 @@ Instructions to run the project locally.
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/your-username/spring-jwt-auth-api.git
+git clone https://github.com/valter-junnior/authentication-jwt-spring-boot
 ```
 
 <h3>Config .env variables</h3>
